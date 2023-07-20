@@ -1,0 +1,173 @@
+C:\Users\Chris\source\repos\Pro\Pro\bin\Debug\Pro.exe.config
+C:\Users\Chris\source\repos\Pro\Pro\bin\Debug\Pro.exe
+C:\Users\Chris\source\repos\Pro\Pro\bin\Debug\Pro.pdb
+C:\Users\Chris\source\repos\Pro\Pro\obj\Debug\Pro.csprojAssemblyReference.cache
+C:\Users\Chris\source\repos\Pro\Pro\obj\Debug\Pro.Form1.resources
+C:\Users\Chris\source\repos\Pro\Pro\obj\Debug\Pro.Form2.resources
+C:\Users\Chris\source\repos\Pro\Pro\obj\Debug\Pro.Properties.Resources.resources
+C:\Users\Chris\source\repos\Pro\Pro\obj\Debug\Pro.csproj.GenerateResource.cache
+C:\Users\Chris\source\repos\Pro\Pro\obj\Debug\Pro.csproj.CoreCompileInputs.cache
+C:\Users\Chris\source\repos\Pro\Pro\obj\Debug\Pro.exe
+C:\Users\Chris\source\repos\Pro\Pro\obj\Debug\Pro.pdb
+C:\Users\USER\Dropbox\My PC (LAPTOP-HKRU2F4V)\Desktop\งาน\Project\Pro\Pro\bin\Debug\Pro.exe.config
+C:\Users\USER\Dropbox\My PC (LAPTOP-HKRU2F4V)\Desktop\งาน\Project\Pro\Pro\bin\Debug\Pro.exe
+C:\Users\USER\Dropbox\My PC (LAPTOP-HKRU2F4V)\Desktop\งาน\Project\Pro\Pro\bin\Debug\Pro.pdb
+C:\Users\USER\Dropbox\My PC (LAPTOP-HKRU2F4V)\Desktop\งาน\Project\Pro\Pro\obj\Debug\Pro.csprojAssemblyReference.cache
+C:\Users\USER\Dropbox\My PC (LAPTOP-HKRU2F4V)\Desktop\งาน\Project\Pro\Pro\obj\Debug\Pro.L1.resources
+C:\Users\USER\Dropbox\My PC (LAPTOP-HKRU2F4V)\Desktop\งาน\Project\Pro\Pro\obj\Debug\Pro.L2.resources
+C:\Users\USER\Dropbox\My PC (LAPTOP-HKRU2F4V)\Desktop\งาน\Project\Pro\Pro\obj\Debug\Pro.L33.resources
+C:\Users\USER\Dropbox\My PC (LAPTOP-HKRU2F4V)\Desktop\งาน\Project\Pro\Pro\obj\Debug\Pro.L4.resources
+C:\Users\USER\Dropbox\My PC (LAPTOP-HKRU2F4V)\Desktop\งาน\Project\Pro\Pro\obj\Debug\Pro.L5.resources
+C:\Users\USER\Dropbox\My PC (LAPTOP-HKRU2F4V)\Desktop\งาน\Project\Pro\Pro\obj\Debug\Pro.Properties.Resources.resources
+C:\Users\USER\Dropbox\My PC (LAPTOP-HKRU2F4V)\Desktop\งาน\Project\Pro\Pro\obj\Debug\Pro.csproj.GenerateResource.cache
+C:\Users\USER\Dropbox\My PC (LAPTOP-HKRU2F4V)\Desktop\งาน\Project\Pro\Pro\obj\Debug\Pro.csproj.CoreCompileInputs.cache
+C:\Users\USER\Dropbox\My PC (LAPTOP-HKRU2F4V)\Desktop\งาน\Project\Pro\Pro\obj\Debug\Pro.exe
+C:\Users\USER\Dropbox\My PC (LAPTOP-HKRU2F4V)\Desktop\งาน\Project\Pro\Pro\obj\Debug\Pro.pdb
+C:\Users\Chris\Desktop\Pro_Day15_Mot8_Year2020\Pro\bin\Debug\Pro.exe.config
+C:\Users\Chris\Desktop\Pro_Day15_Mot8_Year2020\Pro\bin\Debug\Pro.exe
+C:\Users\Chris\Desktop\Pro_Day15_Mot8_Year2020\Pro\bin\Debug\Pro.pdb
+C:\Users\Chris\Desktop\Pro_Day15_Mot8_Year2020\Pro\obj\Debug\Pro.csprojAssemblyReference.cache
+C:\Users\Chris\Desktop\Pro_Day15_Mot8_Year2020\Pro\obj\Debug\Pro.Form3.resources
+C:\Users\Chris\Desktop\Pro_Day15_Mot8_Year2020\Pro\obj\Debug\Pro.img7.resources
+C:\Users\Chris\Desktop\Pro_Day15_Mot8_Year2020\Pro\obj\Debug\Pro.img3.resources
+C:\Users\Chris\Desktop\Pro_Day15_Mot8_Year2020\Pro\obj\Debug\Pro.img2.resources
+C:\Users\Chris\Desktop\Pro_Day15_Mot8_Year2020\Pro\obj\Debug\Pro.img4.resources
+C:\Users\Chris\Desktop\Pro_Day15_Mot8_Year2020\Pro\obj\Debug\Pro.img6.resources
+C:\Users\Chris\Desktop\Pro_Day15_Mot8_Year2020\Pro\obj\Debug\Pro.L1.resources
+C:\Users\Chris\Desktop\Pro_Day15_Mot8_Year2020\Pro\obj\Debug\Pro.L2.resources
+C:\Users\Chris\Desktop\Pro_Day15_Mot8_Year2020\Pro\obj\Debug\Pro.L33.resources
+C:\Users\Chris\Desktop\Pro_Day15_Mot8_Year2020\Pro\obj\Debug\Pro.img1.resources
+C:\Users\Chris\Desktop\Pro_Day15_Mot8_Year2020\Pro\obj\Debug\Pro.L4.resources
+C:\Users\Chris\Desktop\Pro_Day15_Mot8_Year2020\Pro\obj\Debug\Pro.Properties.Resources.resources
+C:\Users\Chris\Desktop\Pro_Day15_Mot8_Year2020\Pro\obj\Debug\Pro.csproj.GenerateResource.cache
+C:\Users\Chris\Desktop\Pro_Day15_Mot8_Year2020\Pro\obj\Debug\Pro.csproj.CoreCompileInputs.cache
+C:\Users\Chris\Desktop\Pro_Day15_Mot8_Year2020\Pro\obj\Debug\Pro.exe
+C:\Users\Chris\Desktop\Pro_Day15_Mot8_Year2020\Pro\obj\Debug\Pro.pdb
+C:\Users\USER\Dropbox\My PC (LAPTOP-HKRU2F4V)\Desktop\งาน\Project\New folder\Pro_Day15_Mot8_Year2020\Pro\bin\Debug\Pro.exe.config
+C:\Users\USER\Dropbox\My PC (LAPTOP-HKRU2F4V)\Desktop\งาน\Project\New folder\Pro_Day15_Mot8_Year2020\Pro\bin\Debug\Pro.exe
+C:\Users\USER\Dropbox\My PC (LAPTOP-HKRU2F4V)\Desktop\งาน\Project\New folder\Pro_Day15_Mot8_Year2020\Pro\bin\Debug\Pro.pdb
+C:\Users\USER\Dropbox\My PC (LAPTOP-HKRU2F4V)\Desktop\งาน\Project\New folder\Pro_Day15_Mot8_Year2020\Pro\obj\Debug\Pro.csprojAssemblyReference.cache
+C:\Users\USER\Dropbox\My PC (LAPTOP-HKRU2F4V)\Desktop\งาน\Project\New folder\Pro_Day15_Mot8_Year2020\Pro\obj\Debug\Pro.Form3.resources
+C:\Users\USER\Dropbox\My PC (LAPTOP-HKRU2F4V)\Desktop\งาน\Project\New folder\Pro_Day15_Mot8_Year2020\Pro\obj\Debug\Pro.img7.resources
+C:\Users\USER\Dropbox\My PC (LAPTOP-HKRU2F4V)\Desktop\งาน\Project\New folder\Pro_Day15_Mot8_Year2020\Pro\obj\Debug\Pro.img3.resources
+C:\Users\USER\Dropbox\My PC (LAPTOP-HKRU2F4V)\Desktop\งาน\Project\New folder\Pro_Day15_Mot8_Year2020\Pro\obj\Debug\Pro.img2.resources
+C:\Users\USER\Dropbox\My PC (LAPTOP-HKRU2F4V)\Desktop\งาน\Project\New folder\Pro_Day15_Mot8_Year2020\Pro\obj\Debug\Pro.img4.resources
+C:\Users\USER\Dropbox\My PC (LAPTOP-HKRU2F4V)\Desktop\งาน\Project\New folder\Pro_Day15_Mot8_Year2020\Pro\obj\Debug\Pro.img6.resources
+C:\Users\USER\Dropbox\My PC (LAPTOP-HKRU2F4V)\Desktop\งาน\Project\New folder\Pro_Day15_Mot8_Year2020\Pro\obj\Debug\Pro.L1.resources
+C:\Users\USER\Dropbox\My PC (LAPTOP-HKRU2F4V)\Desktop\งาน\Project\New folder\Pro_Day15_Mot8_Year2020\Pro\obj\Debug\Pro.L2.resources
+C:\Users\USER\Dropbox\My PC (LAPTOP-HKRU2F4V)\Desktop\งาน\Project\New folder\Pro_Day15_Mot8_Year2020\Pro\obj\Debug\Pro.L33.resources
+C:\Users\USER\Dropbox\My PC (LAPTOP-HKRU2F4V)\Desktop\งาน\Project\New folder\Pro_Day15_Mot8_Year2020\Pro\obj\Debug\Pro.img1.resources
+C:\Users\USER\Dropbox\My PC (LAPTOP-HKRU2F4V)\Desktop\งาน\Project\New folder\Pro_Day15_Mot8_Year2020\Pro\obj\Debug\Pro.L4.resources
+C:\Users\USER\Dropbox\My PC (LAPTOP-HKRU2F4V)\Desktop\งาน\Project\New folder\Pro_Day15_Mot8_Year2020\Pro\obj\Debug\Pro.Properties.Resources.resources
+C:\Users\USER\Dropbox\My PC (LAPTOP-HKRU2F4V)\Desktop\งาน\Project\New folder\Pro_Day15_Mot8_Year2020\Pro\obj\Debug\Pro.csproj.GenerateResource.cache
+C:\Users\USER\Dropbox\My PC (LAPTOP-HKRU2F4V)\Desktop\งาน\Project\New folder\Pro_Day15_Mot8_Year2020\Pro\obj\Debug\Pro.csproj.CoreCompileInputs.cache
+C:\Users\USER\Dropbox\My PC (LAPTOP-HKRU2F4V)\Desktop\งาน\Project\New folder\Pro_Day15_Mot8_Year2020\Pro\obj\Debug\Pro.exe
+C:\Users\USER\Dropbox\My PC (LAPTOP-HKRU2F4V)\Desktop\งาน\Project\New folder\Pro_Day15_Mot8_Year2020\Pro\obj\Debug\Pro.pdb
+C:\Users\USER\Dropbox\My PC (LAPTOP-HKRU2F4V)\Desktop\งาน\Project\New folder\Pro_Day16_Mot8_Year2020\Pro\bin\Debug\Pro.exe.config
+C:\Users\USER\Dropbox\My PC (LAPTOP-HKRU2F4V)\Desktop\งาน\Project\New folder\Pro_Day16_Mot8_Year2020\Pro\bin\Debug\Pro.exe
+C:\Users\USER\Dropbox\My PC (LAPTOP-HKRU2F4V)\Desktop\งาน\Project\New folder\Pro_Day16_Mot8_Year2020\Pro\bin\Debug\Pro.pdb
+C:\Users\USER\Dropbox\My PC (LAPTOP-HKRU2F4V)\Desktop\งาน\Project\New folder\Pro_Day16_Mot8_Year2020\Pro\obj\Debug\Pro.csprojAssemblyReference.cache
+C:\Users\USER\Dropbox\My PC (LAPTOP-HKRU2F4V)\Desktop\งาน\Project\New folder\Pro_Day16_Mot8_Year2020\Pro\obj\Debug\Pro.Form3.resources
+C:\Users\USER\Dropbox\My PC (LAPTOP-HKRU2F4V)\Desktop\งาน\Project\New folder\Pro_Day16_Mot8_Year2020\Pro\obj\Debug\Pro.img7.resources
+C:\Users\USER\Dropbox\My PC (LAPTOP-HKRU2F4V)\Desktop\งาน\Project\New folder\Pro_Day16_Mot8_Year2020\Pro\obj\Debug\Pro.img3.resources
+C:\Users\USER\Dropbox\My PC (LAPTOP-HKRU2F4V)\Desktop\งาน\Project\New folder\Pro_Day16_Mot8_Year2020\Pro\obj\Debug\Pro.img2.resources
+C:\Users\USER\Dropbox\My PC (LAPTOP-HKRU2F4V)\Desktop\งาน\Project\New folder\Pro_Day16_Mot8_Year2020\Pro\obj\Debug\Pro.img4.resources
+C:\Users\USER\Dropbox\My PC (LAPTOP-HKRU2F4V)\Desktop\งาน\Project\New folder\Pro_Day16_Mot8_Year2020\Pro\obj\Debug\Pro.img6.resources
+C:\Users\USER\Dropbox\My PC (LAPTOP-HKRU2F4V)\Desktop\งาน\Project\New folder\Pro_Day16_Mot8_Year2020\Pro\obj\Debug\Pro.L1.resources
+C:\Users\USER\Dropbox\My PC (LAPTOP-HKRU2F4V)\Desktop\งาน\Project\New folder\Pro_Day16_Mot8_Year2020\Pro\obj\Debug\Pro.L2.resources
+C:\Users\USER\Dropbox\My PC (LAPTOP-HKRU2F4V)\Desktop\งาน\Project\New folder\Pro_Day16_Mot8_Year2020\Pro\obj\Debug\Pro.L33.resources
+C:\Users\USER\Dropbox\My PC (LAPTOP-HKRU2F4V)\Desktop\งาน\Project\New folder\Pro_Day16_Mot8_Year2020\Pro\obj\Debug\Pro.img1.resources
+C:\Users\USER\Dropbox\My PC (LAPTOP-HKRU2F4V)\Desktop\งาน\Project\New folder\Pro_Day16_Mot8_Year2020\Pro\obj\Debug\Pro.L4.resources
+C:\Users\USER\Dropbox\My PC (LAPTOP-HKRU2F4V)\Desktop\งาน\Project\New folder\Pro_Day16_Mot8_Year2020\Pro\obj\Debug\Pro.Login.resources
+C:\Users\USER\Dropbox\My PC (LAPTOP-HKRU2F4V)\Desktop\งาน\Project\New folder\Pro_Day16_Mot8_Year2020\Pro\obj\Debug\Pro.Properties.Resources.resources
+C:\Users\USER\Dropbox\My PC (LAPTOP-HKRU2F4V)\Desktop\งาน\Project\New folder\Pro_Day16_Mot8_Year2020\Pro\obj\Debug\Pro.csproj.GenerateResource.cache
+C:\Users\USER\Dropbox\My PC (LAPTOP-HKRU2F4V)\Desktop\งาน\Project\New folder\Pro_Day16_Mot8_Year2020\Pro\obj\Debug\Pro.csproj.CoreCompileInputs.cache
+C:\Users\USER\Dropbox\My PC (LAPTOP-HKRU2F4V)\Desktop\งาน\Project\New folder\Pro_Day16_Mot8_Year2020\Pro\obj\Debug\Pro.exe
+C:\Users\USER\Dropbox\My PC (LAPTOP-HKRU2F4V)\Desktop\งาน\Project\New folder\Pro_Day16_Mot8_Year2020\Pro\obj\Debug\Pro.pdb
+C:\Users\Chris\Desktop\Pro_Day16_Mot8_Year2020\Pro\bin\Debug\Pro.exe.config
+C:\Users\Chris\Desktop\Pro_Day16_Mot8_Year2020\Pro\bin\Debug\Pro.exe
+C:\Users\Chris\Desktop\Pro_Day16_Mot8_Year2020\Pro\bin\Debug\Pro.pdb
+C:\Users\Chris\Desktop\Pro_Day16_Mot8_Year2020\Pro\obj\Debug\Pro.csprojAssemblyReference.cache
+C:\Users\Chris\Desktop\Pro_Day16_Mot8_Year2020\Pro\obj\Debug\Pro.Form3.resources
+C:\Users\Chris\Desktop\Pro_Day16_Mot8_Year2020\Pro\obj\Debug\Pro.img7.resources
+C:\Users\Chris\Desktop\Pro_Day16_Mot8_Year2020\Pro\obj\Debug\Pro.img3.resources
+C:\Users\Chris\Desktop\Pro_Day16_Mot8_Year2020\Pro\obj\Debug\Pro.img2.resources
+C:\Users\Chris\Desktop\Pro_Day16_Mot8_Year2020\Pro\obj\Debug\Pro.img4.resources
+C:\Users\Chris\Desktop\Pro_Day16_Mot8_Year2020\Pro\obj\Debug\Pro.img6.resources
+C:\Users\Chris\Desktop\Pro_Day16_Mot8_Year2020\Pro\obj\Debug\Pro.L1.resources
+C:\Users\Chris\Desktop\Pro_Day16_Mot8_Year2020\Pro\obj\Debug\Pro.L2.resources
+C:\Users\Chris\Desktop\Pro_Day16_Mot8_Year2020\Pro\obj\Debug\Pro.L33.resources
+C:\Users\Chris\Desktop\Pro_Day16_Mot8_Year2020\Pro\obj\Debug\Pro.img1.resources
+C:\Users\Chris\Desktop\Pro_Day16_Mot8_Year2020\Pro\obj\Debug\Pro.L4.resources
+C:\Users\Chris\Desktop\Pro_Day16_Mot8_Year2020\Pro\obj\Debug\Pro.Login.resources
+C:\Users\Chris\Desktop\Pro_Day16_Mot8_Year2020\Pro\obj\Debug\Pro.Properties.Resources.resources
+C:\Users\Chris\Desktop\Pro_Day16_Mot8_Year2020\Pro\obj\Debug\Pro.csproj.GenerateResource.cache
+C:\Users\Chris\Desktop\Pro_Day16_Mot8_Year2020\Pro\obj\Debug\Pro.csproj.CoreCompileInputs.cache
+C:\Users\Chris\Desktop\Pro_Day16_Mot8_Year2020\Pro\obj\Debug\Pro.exe
+C:\Users\Chris\Desktop\Pro_Day16_Mot8_Year2020\Pro\obj\Debug\Pro.pdb
+C:\Users\Chris\Desktop\Pro_Day17ยังไม่ได้ทำใบเสร็จ_Mot8_Year2020\Pro\bin\Debug\Pro.exe.config
+C:\Users\Chris\Desktop\Pro_Day17ยังไม่ได้ทำใบเสร็จ_Mot8_Year2020\Pro\bin\Debug\Pro.exe
+C:\Users\Chris\Desktop\Pro_Day17ยังไม่ได้ทำใบเสร็จ_Mot8_Year2020\Pro\bin\Debug\Pro.pdb
+C:\Users\Chris\Desktop\Pro_Day17ยังไม่ได้ทำใบเสร็จ_Mot8_Year2020\Pro\obj\Debug\Pro.csprojAssemblyReference.cache
+C:\Users\Chris\Desktop\Pro_Day17ยังไม่ได้ทำใบเสร็จ_Mot8_Year2020\Pro\obj\Debug\Pro.Form3.resources
+C:\Users\Chris\Desktop\Pro_Day17ยังไม่ได้ทำใบเสร็จ_Mot8_Year2020\Pro\obj\Debug\Pro.img7.resources
+C:\Users\Chris\Desktop\Pro_Day17ยังไม่ได้ทำใบเสร็จ_Mot8_Year2020\Pro\obj\Debug\Pro.img3.resources
+C:\Users\Chris\Desktop\Pro_Day17ยังไม่ได้ทำใบเสร็จ_Mot8_Year2020\Pro\obj\Debug\Pro.img2.resources
+C:\Users\Chris\Desktop\Pro_Day17ยังไม่ได้ทำใบเสร็จ_Mot8_Year2020\Pro\obj\Debug\Pro.img4.resources
+C:\Users\Chris\Desktop\Pro_Day17ยังไม่ได้ทำใบเสร็จ_Mot8_Year2020\Pro\obj\Debug\Pro.img6.resources
+C:\Users\Chris\Desktop\Pro_Day17ยังไม่ได้ทำใบเสร็จ_Mot8_Year2020\Pro\obj\Debug\Pro.L1.resources
+C:\Users\Chris\Desktop\Pro_Day17ยังไม่ได้ทำใบเสร็จ_Mot8_Year2020\Pro\obj\Debug\Pro.L2.resources
+C:\Users\Chris\Desktop\Pro_Day17ยังไม่ได้ทำใบเสร็จ_Mot8_Year2020\Pro\obj\Debug\Pro.L33.resources
+C:\Users\Chris\Desktop\Pro_Day17ยังไม่ได้ทำใบเสร็จ_Mot8_Year2020\Pro\obj\Debug\Pro.img1.resources
+C:\Users\Chris\Desktop\Pro_Day17ยังไม่ได้ทำใบเสร็จ_Mot8_Year2020\Pro\obj\Debug\Pro.L4.resources
+C:\Users\Chris\Desktop\Pro_Day17ยังไม่ได้ทำใบเสร็จ_Mot8_Year2020\Pro\obj\Debug\Pro.Login.resources
+C:\Users\Chris\Desktop\Pro_Day17ยังไม่ได้ทำใบเสร็จ_Mot8_Year2020\Pro\obj\Debug\Pro.Properties.Resources.resources
+C:\Users\Chris\Desktop\Pro_Day17ยังไม่ได้ทำใบเสร็จ_Mot8_Year2020\Pro\obj\Debug\Pro.csproj.GenerateResource.cache
+C:\Users\Chris\Desktop\Pro_Day17ยังไม่ได้ทำใบเสร็จ_Mot8_Year2020\Pro\obj\Debug\Pro.csproj.CoreCompileInputs.cache
+C:\Users\Chris\Desktop\Pro_Day17ยังไม่ได้ทำใบเสร็จ_Mot8_Year2020\Pro\obj\Debug\Pro.exe
+C:\Users\Chris\Desktop\Pro_Day17ยังไม่ได้ทำใบเสร็จ_Mot8_Year2020\Pro\obj\Debug\Pro.pdb
+C:\Users\USER\Dropbox\My PC (LAPTOP-HKRU2F4V)\Desktop\งาน\Project\Pro_Day17_Mot8_Year2020\Pro\bin\Debug\Pro.exe.config
+C:\Users\USER\Dropbox\My PC (LAPTOP-HKRU2F4V)\Desktop\งาน\Project\Pro_Day17_Mot8_Year2020\Pro\bin\Debug\Pro.exe
+C:\Users\USER\Dropbox\My PC (LAPTOP-HKRU2F4V)\Desktop\งาน\Project\Pro_Day17_Mot8_Year2020\Pro\bin\Debug\Pro.pdb
+C:\Users\USER\Dropbox\My PC (LAPTOP-HKRU2F4V)\Desktop\งาน\Project\Pro_Day17_Mot8_Year2020\Pro\obj\Debug\Pro.csprojAssemblyReference.cache
+C:\Users\USER\Dropbox\My PC (LAPTOP-HKRU2F4V)\Desktop\งาน\Project\Pro_Day17_Mot8_Year2020\Pro\obj\Debug\Pro.Form3.resources
+C:\Users\USER\Dropbox\My PC (LAPTOP-HKRU2F4V)\Desktop\งาน\Project\Pro_Day17_Mot8_Year2020\Pro\obj\Debug\Pro.img7.resources
+C:\Users\USER\Dropbox\My PC (LAPTOP-HKRU2F4V)\Desktop\งาน\Project\Pro_Day17_Mot8_Year2020\Pro\obj\Debug\Pro.img3.resources
+C:\Users\USER\Dropbox\My PC (LAPTOP-HKRU2F4V)\Desktop\งาน\Project\Pro_Day17_Mot8_Year2020\Pro\obj\Debug\Pro.img2.resources
+C:\Users\USER\Dropbox\My PC (LAPTOP-HKRU2F4V)\Desktop\งาน\Project\Pro_Day17_Mot8_Year2020\Pro\obj\Debug\Pro.img4.resources
+C:\Users\USER\Dropbox\My PC (LAPTOP-HKRU2F4V)\Desktop\งาน\Project\Pro_Day17_Mot8_Year2020\Pro\obj\Debug\Pro.img6.resources
+C:\Users\USER\Dropbox\My PC (LAPTOP-HKRU2F4V)\Desktop\งาน\Project\Pro_Day17_Mot8_Year2020\Pro\obj\Debug\Pro.L1.resources
+C:\Users\USER\Dropbox\My PC (LAPTOP-HKRU2F4V)\Desktop\งาน\Project\Pro_Day17_Mot8_Year2020\Pro\obj\Debug\Pro.L2.resources
+C:\Users\USER\Dropbox\My PC (LAPTOP-HKRU2F4V)\Desktop\งาน\Project\Pro_Day17_Mot8_Year2020\Pro\obj\Debug\Pro.L33.resources
+C:\Users\USER\Dropbox\My PC (LAPTOP-HKRU2F4V)\Desktop\งาน\Project\Pro_Day17_Mot8_Year2020\Pro\obj\Debug\Pro.img1.resources
+C:\Users\USER\Dropbox\My PC (LAPTOP-HKRU2F4V)\Desktop\งาน\Project\Pro_Day17_Mot8_Year2020\Pro\obj\Debug\Pro.L4.resources
+C:\Users\USER\Dropbox\My PC (LAPTOP-HKRU2F4V)\Desktop\งาน\Project\Pro_Day17_Mot8_Year2020\Pro\obj\Debug\Pro.Login.resources
+C:\Users\USER\Dropbox\My PC (LAPTOP-HKRU2F4V)\Desktop\งาน\Project\Pro_Day17_Mot8_Year2020\Pro\obj\Debug\Pro.Properties.Resources.resources
+C:\Users\USER\Dropbox\My PC (LAPTOP-HKRU2F4V)\Desktop\งาน\Project\Pro_Day17_Mot8_Year2020\Pro\obj\Debug\Pro.csproj.GenerateResource.cache
+C:\Users\USER\Dropbox\My PC (LAPTOP-HKRU2F4V)\Desktop\งาน\Project\Pro_Day17_Mot8_Year2020\Pro\obj\Debug\Pro.csproj.CoreCompileInputs.cache
+C:\Users\USER\Dropbox\My PC (LAPTOP-HKRU2F4V)\Desktop\งาน\Project\Pro_Day17_Mot8_Year2020\Pro\obj\Debug\Pro.exe
+C:\Users\USER\Dropbox\My PC (LAPTOP-HKRU2F4V)\Desktop\งาน\Project\Pro_Day17_Mot8_Year2020\Pro\obj\Debug\Pro.pdb
+C:\Users\USER\Dropbox\My PC (LAPTOP-HKRU2F4V)\Desktop\งาน\Project\Pro_Day17_Mot8_Year2020\Pro\obj\Debug\Pro.Print_Form.resources
+D:\Work\Project\Final Project\Pro\bin\Debug\Pro.exe.config
+D:\Work\Project\Final Project\Pro\bin\Debug\Pro.exe
+D:\Work\Project\Final Project\Pro\bin\Debug\Pro.pdb
+D:\Work\Project\Final Project\Pro\obj\Debug\Pro.csproj.AssemblyReference.cache
+D:\Work\Project\Final Project\Pro\obj\Debug\Pro.csproj.SuggestedBindingRedirects.cache
+D:\Work\Project\Final Project\Pro\obj\Debug\Pro.Print_Form.resources
+D:\Work\Project\Final Project\Pro\obj\Debug\Pro.Form3.resources
+D:\Work\Project\Final Project\Pro\obj\Debug\Pro.img7.resources
+D:\Work\Project\Final Project\Pro\obj\Debug\Pro.img3.resources
+D:\Work\Project\Final Project\Pro\obj\Debug\Pro.img2.resources
+D:\Work\Project\Final Project\Pro\obj\Debug\Pro.img4.resources
+D:\Work\Project\Final Project\Pro\obj\Debug\Pro.img6.resources
+D:\Work\Project\Final Project\Pro\obj\Debug\Pro.L1.resources
+D:\Work\Project\Final Project\Pro\obj\Debug\Pro.L2.resources
+D:\Work\Project\Final Project\Pro\obj\Debug\Pro.L33.resources
+D:\Work\Project\Final Project\Pro\obj\Debug\Pro.img1.resources
+D:\Work\Project\Final Project\Pro\obj\Debug\Pro.L4.resources
+D:\Work\Project\Final Project\Pro\obj\Debug\Pro.Login.resources
+D:\Work\Project\Final Project\Pro\obj\Debug\Pro.Properties.Resources.resources
+D:\Work\Project\Final Project\Pro\obj\Debug\Pro.csproj.GenerateResource.cache
+D:\Work\Project\Final Project\Pro\obj\Debug\Pro.csproj.CoreCompileInputs.cache
+D:\Work\Project\Final Project\Pro\obj\Debug\Pro.exe
+D:\Work\Project\Final Project\Pro\obj\Debug\Pro.pdb
